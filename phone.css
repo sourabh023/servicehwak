@@ -1,0 +1,317 @@
+@media only screen and (max-width: 416px) {
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .down {
+    width: 100%;
+  }
+  .container-2 {
+    display: inline-block;
+    height: auto;
+  }
+  .imgg {
+    height: 100%;
+    width: 90%;
+    margin-left: 21px;
+    padding: 20px;
+  }
+  .head {
+    height: 40%;
+    width: 100%;
+  }
+.p{
+  height: 40%;
+    width: 100%;
+    padding: 0; 
+    margin: 0;
+}
+.h1-h1{
+  display: block;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+    text-align: center;
+}
+.para,
+.para--8,
+.h1 {
+  display: none;
+}
+.para-2{
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: 600;
+}
+.img-2{
+  margin: 0;
+  padding: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container-3{
+margin: 0;
+padding: 0;
+}
+.container-3-dot{
+  display: none;
+}
+.h1-p{
+  margin: 0;
+  margin-top: 30px;
+}
+.h2{
+  font-size: 25px;
+  padding-top: 20px;
+}
+.h2-para{
+  font-size: 14px;
+}
+.img-box{
+  display: grid;
+  margin: 0;
+  padding: 0;
+}
+.boxx{
+  margin: 0;
+}
+.img11{
+  height: 70%;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+.boxx-h1,
+.h2-para{
+  text-align: center;
+}
+.img-box1{
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+.h1-pp{
+  margin: 0;
+  padding: 0;
+}
+.h2-2{
+  font-size: 25px;
+  margin-top: 15px;
+}
+.img-222{
+  height: 70%;
+  width: 100%;
+  border-radius: 50px 0 50px 0;
+  margin: 0;
+}
+.boxx1{
+  margin: 0;
+  padding: 0;
+}
+.container-3-h1,
+.container-3-para{
+  text-align: center;
+  margin: 0;
+  margin-top: 12px;
+}
+
+.Portt,
+.container-5-main-para{
+  display: none;
+}
+.container-5-main-our-work{
+  margin: 0;
+}
+.container-5-main{
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+  margin-left: 34%;
+}
+.contaiiner-5-head{
+  font-size: 25px;
+  margin: 0;
+  padding: 0;
+}
+.container-boxx-2{
+  margin: 0;
+  padding: 0;
+}
+.grid-item-1{
+  height: 100%;
+  width: 32%;
+
+}
+.grid-item-2{
+  height: 100%;
+    width: 47%;
+}
+.grid-item-3{
+  height: 100%;
+  width: 85%;
+  margin-left: -10px;
+}
+.grid-item-4{
+  height: 100%;
+  width: 32%;
+}
+.grid-item-5{
+  height: 100%;
+  width: 46%;
+  
+}
+.container-boxx-1{
+  padding: 0 0 0 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.container-7-para,
+.container-7-para-1,
+.container-7-ul,
+.container-7-li{
+  margin: 0;
+  padding: 0;
+}
+.container-7{
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+.container-7-text{
+  margin: 0;
+  padding: 0;
+height: auto;
+width: auto;  
+}
+.container-7-para{ 
+font-size: 20px;
+text-align: center;
+padding-top: 20px;
+}
+.container-7-para-1{
+  font-size: 14px;
+  text-align: center;
+  margin-top: 20px;
+}
+.container-7-ul{
+  font-size: 14px;
+  margin-left: 40px;
+}
+.container-7-img{
+  height: 100%;
+  width: 100%;
+  border-radius: 50% 0 50% 0;
+}
+.container-8-dot{
+  display: none;
+}
+.container-8-main,
+.container-8-1,
+.container-8,
+.container-8-h1{
+  margin: 0;
+  padding: 0;
+}
+.container-8-h1{
+margin: 20px 0px 20px 90px;
+font-size: 35px;
+}
+.container-8-h2{
+  display: none;
+}
+.container-8-para-12{
+  font-size: 12px;
+  top: 96%;
+}
+.container-8-imgg-2{
+  top: 10%;
+    right: 38%;
+    height: 20%;
+}
+.container-8-min-text{
+  width: 70%;
+}
+.submain{
+  font-size: 20px;
+  line-height: 20px;
+  letter-spacing: 5px;
+}
+.play-store{
+  top: 13%;
+  left: 31%;
+  width: 35%;
+}
+.container-9-group-img{
+  height: 100%;
+  width: 100%;
+}
+
+.cont{
+  display: block;
+  height: 500%;
+  width: 100%;
+}
+.container-10-child1{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+}
+.container-10-child1-h1{
+  font-size: 25px;
+padding-top: 20px;
+}
+.count{
+  margin-left: 26%;
+}
+.container-10-child1-hr
+{
+  margin-left: 28%;
+  margin-top: 1px;
+}
+.container-10-child1-no{
+  margin-left: 28%;
+}
+.container-10-child2{
+  width: 100%;
+}
+.container-10-child2-p{
+  text-align: center;
+  font-size: 15px;
+  padding: 0 20px 0 20px;
+}
+.container-10-child2-h1{
+  text-align: center;
+}
+.container-10-child1-hr{
+  margin-left: 35%;
+}
+.container-10-child2-h2,
+.tet{
+  margin: 0;
+  text-align: center;
+}
+.tet{
+  padding-bottom: 20px;
+}
+
+
+.footer-logo{
+  margin-top: 20px;
+}
+.footer-content-2{
+  display: flex;
+}
+.footer-ul,
+.hori-line{
+  display: none;
+}
+
+
+
+}
